@@ -1,0 +1,5 @@
+{
+  "name": "Image Vehicle Swap",
+  "description": "An application that allows users to upload an image of a vehicle and generate a new image with a different type of vehicle, while preserving the original style and aspect ratio.",
+  "requestFramePermissions": []
+}
